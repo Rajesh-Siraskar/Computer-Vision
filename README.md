@@ -1,7 +1,5 @@
 # xenon
 ### Computer Vision and Machine Learning
-
-### KPIM24COM Assignment
 ------------------------------------------------------------------------------------------------------
 
 ### Update: 31-Dec-2018 ###
